@@ -1,5 +1,7 @@
 # Claude Code Configuration Examples
 
+For an introduction to Claude Code features, visit [www.elliotjreed.com/ai/claude-code-guide-and-tips](https://www.elliotjreed.com/ai/claude-code-guide-and-tips).
+
 This repository contains example configuration files for [Claude Code](https://claude.com/product/claude-code), demonstrating how to customise and extend the CLI tool.
 
 ## Configuration Files
@@ -89,5 +91,8 @@ Skills are stored globally at `~/.claude/skills/` or per-project at `./.claude/s
 
 ## Resources
 
+- [Claude Code Tips and Tricks](https://www.elliotjreed.com/ai/claude-code-guide-and-tips)
 - [Claude Code Documentation](https://code.claude.com/docs/en)
 - [Claude Code Settings Reference](https://code.claude.com/docs/en/settings)
+- [General AI Promptin Guide](https://www.elliotjreed.com/ai/ai-prompt-engineering-guide)
+- [CAFE Promting Framework](https://www.elliotjreed.com/ai/cafe-ai-prompt-framework)
